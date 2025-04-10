@@ -55,11 +55,7 @@
 
 ### 🐍 Snake Game das Minhas Contribuições
 
-<p align="center">
-  <img src="https://github.com/Xavier0999/Xavier0999/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
-
+<img align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 
 
 
