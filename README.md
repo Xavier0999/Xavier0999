@@ -17,7 +17,7 @@
 
 ## 📬 Como Entrar em Contato
 
-- Se você tem alguma dúvida ou quer conversar sobre tecnologia, pode me encontrar no Email: [gustavoxavier0999@gmail.com](mailto:gustavoxavier0999@gmail.com)
+- Se você tem alguma dúvida ou quer conversar sobre tecnologia, pode me encontrar no [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-xavier-754388356/)
 .
 
 
