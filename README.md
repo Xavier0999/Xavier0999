@@ -53,7 +53,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoxavier0999@gmail.com)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FFBF&center=true&vCenter=true&width=600&lines=Olá%2C+sou+Gustavo+Xavier!;17+anos+apaixonado+por+tecnologia.;Back-end+Developer+em+formação.;Java+%7C+Spring+Boot+%7C+MongoDB+%7C+Docker+%7C+Mockito)](https://git.io/typing-svg)
+### 🐍 Snake Game das Minhas Contribuições
+
+<p align="center">
+  <img src="https://github.com/GustavoXavier7/GustavoXavier7/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 
 
