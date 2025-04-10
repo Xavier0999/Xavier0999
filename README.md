@@ -50,6 +50,10 @@
 - Automação de build e deploy com **Maven** e **Docker**.
 - Boas práticas de **testes automatizados**.
 
+## Graficos do GitHub
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=teu-usuario&show_icons=true&theme=tokyonight)
+
+
 ## 📬 Como Entrar em Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-xavier-754388356/)
