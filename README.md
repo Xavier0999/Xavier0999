@@ -8,6 +8,15 @@
 
 <img align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+
+<img src="caminho/para/teu-banner.png" alt="Gustavo Xavier" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FFBF&center=true&width=435&lines=Olá,+me+chamo+Gustavo+Xavier;Backend+Developer+em+evolução;Spring+Boot+%7C+Java+%7C+MongoDB+%7C+Docker)](https://git.io/typing-svg)
+
+
 
 ## 🚀 Tecnologias que eu utlizo
 
