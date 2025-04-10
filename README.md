@@ -13,14 +13,6 @@
 - **Git**: Controle de versão e colaboração em equipe.
 
 
-
-
-## 📬 Como Entrar em Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-xavier-754388356/)
-.
-
-
 ## ⚡ Curiosidades
 
 - Sou apaixonado por resolver problemas complexos de forma simples.
@@ -33,5 +25,12 @@
 - Integração com **bancos de dados relacionais** (MySQL, PostgreSQL).
 - Automação de build e deploy com **Maven** e **Docker**.
 - Boas práticas de **testes automatizados**.
+
+## 📬 Como Entrar em Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-xavier-754388356/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gustavoxavier0999@gmail.com)
+
+.
 
 
