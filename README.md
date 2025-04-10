@@ -1,6 +1,6 @@
 # Bem-vindo ao meu GitHub!
 
-👋 Olá, eu sou Gustavo Xavier, um desenvolvedor apaixonado por **Java** e **Spring Boot**. Atualmente, estou trabalhando em soluções escaláveis e robustas utilizando essas tecnologias para criar aplicações web modernas e eficientes.
+👋 Olá, Meu nome é Gustavo Xavier, sou um desenvolvedor apaixonado por **Java** e **Spring Boot**. E atualmente, estou em busca de aprimorar minhas skills.
 
 ## 🚀 Tecnologias que eu uso
 
