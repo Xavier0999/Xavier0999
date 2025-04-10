@@ -6,6 +6,7 @@
 - 🚀 Atualmente estou cursando Técnico em Informática na Fundatec  
   
 
+<img align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 
 
 ## 🚀 Tecnologias que eu utlizo
