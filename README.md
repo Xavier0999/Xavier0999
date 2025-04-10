@@ -53,6 +53,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoxavier0999@gmail.com)
 
 
-<img align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+<img src="https://github.com/GustavoXavier7/GustavoXavier7/raw/output/github-contribution-grid-snake.svg" />
+
 
 
