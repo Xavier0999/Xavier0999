@@ -56,7 +56,7 @@
 ### 🐍 Snake Game das Minhas Contribuições
 
 <p align="center">
-  <img src="https://github.com/GustavoXavier7/GustavoXavier7/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Xavier0999/Xavier0999/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 
