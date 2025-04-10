@@ -61,4 +61,12 @@
 
 .
 
+@Service
+public class UsuarioService {
+    public Usuario criarUsuario(UsuarioDTO dto) {
+        // lógica de criação
+    }
+}
+
+
 
