@@ -1,5 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FFBF&center=true&vCenter=true&width=600&lines=Olá%2C+sou+Gustavo+Xavier!;17+anos+apaixonado+por+tecnologia.;Back-end+Developer+em+formação.;Java+%7C+Spring+Boot+%7C+MongoDB+%7C+Docker+%7C+Mockito)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFBF&center=true&vCenter=true&width=500&lines=Olá,+me+chamo+Gustavo+Xavier;Backend+Developer+em+evolução)](https://git.io/typing-svg)
+
 
 ## 👋 Curiosidades
 
