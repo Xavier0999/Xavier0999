@@ -8,7 +8,7 @@
 
 
 
-## 🚀 Tecnologias que eu uso
+## 🚀 Tecnologias que eu utlizo
 
 <p align="left">
   <a href="https://www.java.com/" target="_blank">
