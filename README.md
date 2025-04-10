@@ -17,7 +17,7 @@
 
 ## 📬 Como Entrar em Contato
 
-- Se você tem alguma dúvida ou quer conversar sobre tecnologia, pode me encontrar no [seuemail@dominio.com](gustavoxavier@gmail.com).
+- Se você tem alguma dúvida ou quer conversar sobre tecnologia, pode me encontrar no [gustavoxavier@gmail.com](gustavoxavier@gmail.com).
 
 
 ## ⚡ Curiosidades
