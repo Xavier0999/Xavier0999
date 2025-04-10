@@ -1,6 +1,12 @@
-# Bem-vindo ao meu GitHub!
 
-👋 Olá, Meu nome é Gustavo Xavier, sou um desenvolvedor apaixonado por **Java** e **Spring Boot**. E atualmente, estou em busca de aprimorar minhas skills.
+## 👋 Olá! Me chamo Gustavo Xavier
+
+- 🎂 Tenho 17 anos  
+- 🎯 Estou em busca de aprofundar meus conhecimentos na área de tecnologia  
+- 🚀 Atualmente estou cursando Técnico em Informática na Fundatec  
+  
+
+
 
 ## 🚀 Tecnologias que eu uso
 
