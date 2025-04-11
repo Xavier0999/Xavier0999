@@ -2,6 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFBF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Gustavo+Xavier;Aspiring+Back-End+Developer)](https://git.io/typing-svg)
 
 
+![Gustavo Xavier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xavier0999&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavier0999&layout=compact&theme=radical)
+
 ## 👋 Curiosidades
 
 - 🎂 Tenho 17 anos  
@@ -38,10 +41,6 @@
     <img src="https://avatars.githubusercontent.com/u/8778734?s=200&v=4" alt="Mockito" width="40" height="40"/>
   </a>
 </p>
-
-![Gustavo Xavier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xavier0999&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavier0999&layout=compact&theme=radical)
-
 
 ## 💻 Habilidades
 
