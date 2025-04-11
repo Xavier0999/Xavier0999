@@ -2,8 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFBF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Gustavo+Xavier;Aspiring+Back-End+Developer)](https://git.io/typing-svg)
 
 
-![Gustavo Xavier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xavier0999&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavier0999&layout=compact&theme=radical)
 
 ## 👋 Curiosidades
 
@@ -11,8 +9,6 @@
 - 🎯 Estou em busca de aprofundar meus conhecimentos na área de tecnologia  
 - 🚀 Atualmente estou cursando Técnico em Informática na Fundatec  
   
-<img src="https://github-readme-stats.vercel.app/api?username=xavier0999&show_icons=true&theme=tokyonight" alt="Gustavo Xavier GitHub Stats" />
-
 
 
 ## 🚀 Tecnologias que eu utlizo
@@ -51,6 +47,10 @@
 - Automação de build e deploy com **Maven** e **Docker**.
 - Boas práticas de **testes automatizados**.
 
+## 📈 Estátisticas do meu GitHub
+
+![Gustavo Xavier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xavier0999&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavier0999&layout=compact&theme=radical)
 
 ## 📬 Como Entrar em Contato
 
