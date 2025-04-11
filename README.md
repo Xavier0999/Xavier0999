@@ -11,6 +11,8 @@
 - 🎯 Estou em busca de aprofundar meus conhecimentos na área de tecnologia  
 - 🚀 Atualmente estou cursando Técnico em Informática na Fundatec  
   
+<img src="https://github-readme-stats.vercel.app/api?username=xavier0999&show_icons=true&theme=tokyonight" alt="Gustavo Xavier GitHub Stats" />
+
 
 
 ## 🚀 Tecnologias que eu utlizo
@@ -60,7 +62,7 @@
 
 <img align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=xavier0999&theme=github)
+
 
 
 
